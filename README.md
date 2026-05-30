@@ -1,20 +1,23 @@
-## Hi there! 👋 I'm Enmanuel De los Santos Cruz
+## Hi there! I'm Enmanuel De los Santos Cruz
 
-[![Enmanuel De los Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnmaSantos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+Software Engineering student with a Data Science minor, focused on Python, APIs, data processing, automation, and full-stack systems.
 
+### What I build
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnmaSantos&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**EnmaSantos/EnmaSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python and FastAPI services that parse, normalize, and serve structured data
+- SQL-backed applications using PostgreSQL, SQLite, Prisma, and API integrations
+- Automation tools for real workflows, including Canvas LMS, Trello, Google Sheets, and data-sync tasks
+- Full-stack projects that connect frontend interfaces to backend data models and REST APIs
 
-Here are some ideas to get you started:
+### GitHub summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Enmanuel's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnmaSantos&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Enmanuel's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnmaSantos&theme=github_dark" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Enmanuel's top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnmaSantos&theme=github_dark" />
+  </a>
+</p>
